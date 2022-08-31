@@ -1,2 +1,2 @@
 # Weather-information-with-KNMI-hourly-weather-API
-This project uses the KNMI Hourly weather information to determine the weather at a random location at a random day and hour. The weather information for the Netherlands is requested from the [KNMI API](https://www.knmi.nl/kennis-en-datacentrum/achtergrond/data-ophalen-vanuit-een-script). and the random locations are determined for The Netherlands.
+This project uses the KNMI Hourly weather information to determine the weather at a random location at a random day and hour. The weather information for the Netherlands is requested from the [KNMI API](https://www.knmi.nl/kennis-en-datacentrum/achtergrond/data-ophalen-vanuit-een-script) and the random locations are determined for The Netherlands.
